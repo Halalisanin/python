@@ -1,5 +1,5 @@
-name = input("Enter name: ") # Prompt user for input
-print("Hello", name) # Print a greeting
+name = input("Enter name: ")
+print("Hello", name)
 
 # Output:
 # Enter name: Jack
